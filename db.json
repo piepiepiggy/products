@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 4,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 5,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 6,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 7,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    },
+    {
+      "id": 8,
+      "name": "kursi pajang",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg",
+      "price": 10000
+    }
+  ],
+  "banners": [
+    {
+      "id": "1",
+      "title": "Beautiful and dramatic Antelope Canyon",
+      "image": "https://i.imgur.com/UYiroysl.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Earlier this morning, NYC",
+      "image": "https://i.imgur.com/UPrs1EWl.jpg"
+    },
+    {
+      "id": "3",
+
+      "title": "White Pocket Sunset",
+      "image": "https://i.imgur.com/MABUbpDl.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Acrocorinth, Greece",
+      "image": "https://i.imgur.com/KZsmUi2l.jpg"
+    },
+    {
+      "id": "5",
+      "title": "The lone tree, majestic landscape of New Zealand",
+      "image": "https://i.imgur.com/2nCt3Sbl.jpg"
+    }
+  ]
+}
