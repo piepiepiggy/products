@@ -163,27 +163,22 @@
   "banners": [
     {
       "id": "1",
-      "title": "Beautiful and dramatic Antelope Canyon",
       "image": "https://pbs.twimg.com/media/EWtS4UJWsAQ56ie.jpg"
     },
     {
       "id": "2",
-      "title": "Earlier this morning, NYC",
       "image": "https://cdn.idntimes.com/content-images/community/2019/09/images-13-f4443e932a3f9c29e3c095a0b91e8678.jpeg"
     },
     {
       "id": "3",
-      "title": "White Pocket Sunset",
       "image": "https://images.justwatch.com/backdrop/87169295/s1440/love-o2o"
     },
     {
       "id": "4",
-      "title": "Acrocorinth, Greece",
       "image": "https://i.pinimg.com/originals/c4/99/57/c49957a8dc31fcbc381ddd65d641371d.jpg"
     },
     {
       "id": "5",
-      "title": "The lone tree, majestic landscape of New Zealand",
       "image": "https://m.media-amazon.com/images/M/MV5BYzljMGIzZmUtNmU4My00ZTg4LWI2N2EtNTA5NzkxODRmMDE3L2ltYWdlXkEyXkFqcGdeQXVyNDU4OTkwNjc@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
     }
   ]
