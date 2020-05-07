@@ -13,7 +13,7 @@
       "model": {
         "type": "GLTF",
         "name": "chinese_bridge_orgament",
-        "texture": ["FishTankBridge01_baseColor.jpeg"]
+        "textures": ["FishTankBridge01_baseColor.jpeg"]
       }
     },
     {
@@ -29,7 +29,7 @@
       "model": {
         "type": "GLTF",
         "name": "bed_side",
-        "texture": ["Material.001_baseColor.jpeg"]
+        "textures": ["Material.001_baseColor.jpeg"]
       }
     },
     {
@@ -45,7 +45,7 @@
       "model": {
         "type": "GLTF",
         "name": "designer_chair",
-        "texture": [
+        "textures": [
           "DefaultMaterial_baseColor.png",
           "DefaultMaterial_metallicRoughness.png",
           "DefaultMaterial_normal.png"
@@ -65,7 +65,7 @@
       "model": {
         "type": "GLTF",
         "name": "mario_floor_lamp",
-        "texture": [
+        "textures": [
           "Brass_baseColor.jpeg",
           "Brass_metallicRoughness.png",
           "Brass_normal.png",
@@ -100,7 +100,7 @@
       "model": {
         "type": "GLTF",
         "name": "skull",
-        "texture": ["defaultMat_baseColor.jpg", "defaultMat_normal.jpg"]
+        "textures": ["defaultMat_baseColor.jpg", "defaultMat_normal.jpg"]
       }
     },
     {
@@ -116,7 +116,7 @@
       "model": {
         "type": "GLTF",
         "name": "washing_machine",
-        "texture": [
+        "textures": [
           "DarkGlassMaterial.000_baseColor.png",
           "HoseMaterial.022_baseColor.jpeg",
           "HoseMaterial.022_metallicRoughness.png",
@@ -140,7 +140,7 @@
       "model": {
         "type": "GLTF",
         "name": "wicker_chair",
-        "texture": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
+        "textures": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
       }
     },
     {
@@ -156,7 +156,7 @@
       "model": {
         "type": "GLTF",
         "name": "wicker_chair",
-        "texture": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
+        "textures": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
       }
     }
   ],
