@@ -2,90 +2,47 @@
   "products": [
     {
       "id": 1,
-      "name": "Chinese Bridge Orgament",
+      "name": "kursi pajang",
       "image": "https://img.antaranews.com/cache/800x533/2019/12/29/Screen-Shot-2019-12-29-at-00.01.55.png",
       "subImages": [
         "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/b/u/Bugsy_Dining_Chair_10.jpg",
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "chinese_bridge_orgament",
-        "textures": ["FishTankBridge01_baseColor.jpeg"]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 2,
-      "name": "Bed Side",
+      "name": "Meja pajang",
       "image": "https://www.belifurniture.com/media/catalog/product/cache/1/base/9df78eab33525d08d6e5fb8d27136e95/g/a/ga_140_sok.jpg",
       "subImages": [
         "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/b/u/Bugsy_Dining_Chair_10.jpg",
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 500000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "bed_side",
-        "textures": ["Material.001_baseColor.jpeg"]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 3,
-      "name": "Designer Chair",
+      "name": "Sofa",
       "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/288/0728848_PE736539_S4.jpg",
       "subImages": [
         "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/b/u/Bugsy_Dining_Chair_10.jpg",
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 1000000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "designer_chair",
-        "textures": [
-          "DefaultMaterial_baseColor.png",
-          "DefaultMaterial_metallicRoughness.png",
-          "DefaultMaterial_normal.png"
-        ]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 4,
-      "name": "Mario Floor Lamp",
+      "name": "Piring",
       "image": "https://img.antaranews.com/cache/800x533/2019/12/29/Screen-Shot-2019-12-29-at-00.01.55.png",
       "subImages": [
         "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/b/u/Bugsy_Dining_Chair_10.jpg",
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 90000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "mario_floor_lamp",
-        "textures": [
-          "Brass_baseColor.jpeg",
-          "Brass_metallicRoughness.png",
-          "Brass_normal.png",
-          "Glow_baseColor.jpeg",
-          "Glow_metallicRoughness.png",
-          "Glow_normal.png",
-          "Mario_Metal_baseColor.jpeg",
-          "Mario_Metal_metallicRoughness.png",
-          "Mario_Metal_normal.png",
-          "Metal_Chrome_baseColor.jpeg",
-          "Metal_Chrome_metallicRoughness.png",
-          "Metal_Chrome_normal.png",
-          "Shadow_baseColor.png",
-          "Shadow_metallicRoughness.png",
-          "Shadow_normal.png",
-          "Shuho_baseColor.jpeg",
-          "Shuho_metallicRoughness.png",
-          "Shuho_normal.png"
-        ]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 5,
@@ -96,52 +53,29 @@
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 53888,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "skull",
-        "textures": ["defaultMat_baseColor.jpg", "defaultMat_normal.jpg"]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 6,
-      "name": "Washing Machine",
+      "name": "Sapu",
       "image": "https://corndogtv.files.wordpress.com/2018/06/loveo2oep3_8.png?w=1000",
       "subImages": [
         "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/b/u/Bugsy_Dining_Chair_10.jpg",
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 10000,
-      "description": "The lone tree, majestic landscape of New Zealand",
-      "model": {
-        "type": "GLTF",
-        "name": "washing_machine",
-        "textures": [
-          "DarkGlassMaterial.000_baseColor.png",
-          "HoseMaterial.022_baseColor.jpeg",
-          "HoseMaterial.022_metallicRoughness.png",
-          "Material_baseColor.png",
-          "Material_metallicRoughness.png",
-          "Material.002_baseColor.png",
-          "plasticBlackMaterial.003_metallicRoughness.png"
-        ]
-      }
+      "description": "The lone tree, majestic landscape of New Zealand"
     },
     {
       "id": 7,
-      "name": "Wicker Chair",
+      "name": "Gelas",
       "image": "https://i.imgur.com/KZsmUi2l.jpg",
       "subImages": [
         "https://m2fabelio.imgix.net/catalog/product/cache/small_image/414x214/beff4985b56e3afdbeabfc89641a4582/b/u/Bugsy_Dining_Chair_10.jpg",
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 3000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "wicker_chair",
-        "textures": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 8,
@@ -152,12 +86,7 @@
         "https://cdn.andoleto.com/8066-large_default/malmo-kursi-berlengan.jpg"
       ],
       "price": 10000,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "wicker_chair",
-        "textures": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
-      }
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ],
   "banners": [
