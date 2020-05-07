@@ -10,11 +10,7 @@
       ],
       "price": 10000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "chinese_bridge_orgament",
-        "textures": ["FishTankBridge01_baseColor.jpeg"]
-      }
+      "modelName": "chinese_bridge_orgament"
     },
     {
       "id": 2,
@@ -26,11 +22,7 @@
       ],
       "price": 500000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "bed_side",
-        "textures": ["Material.001_baseColor.jpeg"]
-      }
+      "modelName": "bed_side"
     },
     {
       "id": 3,
@@ -42,15 +34,7 @@
       ],
       "price": 1000000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "designer_chair",
-        "textures": [
-          "DefaultMaterial_baseColor.png",
-          "DefaultMaterial_metallicRoughness.png",
-          "DefaultMaterial_normal.png"
-        ]
-      }
+      "modelName": "designer_chair"
     },
     {
       "id": 4,
@@ -62,30 +46,7 @@
       ],
       "price": 90000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "mario_floor_lamp",
-        "textures": [
-          "Brass_baseColor.jpeg",
-          "Brass_metallicRoughness.png",
-          "Brass_normal.png",
-          "Glow_baseColor.jpeg",
-          "Glow_metallicRoughness.png",
-          "Glow_normal.png",
-          "Mario_Metal_baseColor.jpeg",
-          "Mario_Metal_metallicRoughness.png",
-          "Mario_Metal_normal.png",
-          "Metal_Chrome_baseColor.jpeg",
-          "Metal_Chrome_metallicRoughness.png",
-          "Metal_Chrome_normal.png",
-          "Shadow_baseColor.png",
-          "Shadow_metallicRoughness.png",
-          "Shadow_normal.png",
-          "Shuho_baseColor.jpeg",
-          "Shuho_metallicRoughness.png",
-          "Shuho_normal.png"
-        ]
-      }
+      "modelName": "mario_floor_lamp"
     },
     {
       "id": 5,
@@ -97,11 +58,7 @@
       ],
       "price": 53888,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "skull",
-        "textures": ["defaultMat_baseColor.jpg", "defaultMat_normal.jpg"]
-      }
+      "modelName": "skull"
     },
     {
       "id": 6,
@@ -113,19 +70,7 @@
       ],
       "price": 10000,
       "description": "The lone tree, majestic landscape of New Zealand",
-      "model": {
-        "type": "GLTF",
-        "name": "washing_machine",
-        "textures": [
-          "DarkGlassMaterial.000_baseColor.png",
-          "HoseMaterial.022_baseColor.jpeg",
-          "HoseMaterial.022_metallicRoughness.png",
-          "Material_baseColor.png",
-          "Material_metallicRoughness.png",
-          "Material.002_baseColor.png",
-          "plasticBlackMaterial.003_metallicRoughness.png"
-        ]
-      }
+      "modelName": "washing_machine"
     },
     {
       "id": 7,
@@ -137,11 +82,7 @@
       ],
       "price": 3000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "wicker_chair",
-        "textures": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
-      }
+      "modelName": "wicker_chair"
     },
     {
       "id": 8,
@@ -153,32 +94,33 @@
       ],
       "price": 10000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "model": {
-        "type": "GLTF",
-        "name": "wicker_chair",
-        "textures": ["blinn1_baseColor.jpeg", "blinn1_normal.png"]
-      }
+      "modelName": "wicker_chair"
     }
   ],
   "banners": [
     {
       "id": "1",
+      "title": "Beautiful and dramatic Antelope Canyon",
       "image": "https://pbs.twimg.com/media/EWtS4UJWsAQ56ie.jpg"
     },
     {
       "id": "2",
+      "title": "Earlier this morning, NYC",
       "image": "https://cdn.idntimes.com/content-images/community/2019/09/images-13-f4443e932a3f9c29e3c095a0b91e8678.jpeg"
     },
     {
       "id": "3",
+      "title": "White Pocket Sunset",
       "image": "https://images.justwatch.com/backdrop/87169295/s1440/love-o2o"
     },
     {
       "id": "4",
+      "title": "Acrocorinth, Greece",
       "image": "https://i.pinimg.com/originals/c4/99/57/c49957a8dc31fcbc381ddd65d641371d.jpg"
     },
     {
       "id": "5",
+      "title": "The lone tree, majestic landscape of New Zealand",
       "image": "https://m.media-amazon.com/images/M/MV5BYzljMGIzZmUtNmU4My00ZTg4LWI2N2EtNTA5NzkxODRmMDE3L2ltYWdlXkEyXkFqcGdeQXVyNDU4OTkwNjc@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
     }
   ]
